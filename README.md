@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ahmkah/ahmkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on node running and testnets
 - 🌱 I’m currently learning from A to Z with Docker
 - 👯 I’m looking to collaborate with other content creators
