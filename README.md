@@ -17,5 +17,7 @@ Celestia (Mamaki Testnet), Dymension RollApp, Aptos, Sui, Sei, Kujira, Paloma, Q
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ahmkah&show_icons=true&theme=radical)
 
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmkah&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmkah&theme=blue-green)](https://github.com/ahmkah/github-readme-stats)
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmkah&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
