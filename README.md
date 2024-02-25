@@ -11,6 +11,12 @@ Celestia (Mamaki Testnet), Dymension RollApp, Aptos, Sui, Sei, Kujira, Paloma, Q
 
 ... new ones will be added continuously
 
+## Nodes :sweat_drops:
+
+I utilize cloud providers such as Hetzner, Netcup GmbH, and DigitalOcean for my Nodes & projects, meticulously choosing them based on location and hardware criteria. I conduct daily checks to ensure their continual functionality and efficiency. Additionally, I deploy Grafana for live server monitoring on each server, and I depend on Telegram bots to promptly alert me of any potential issues or anomalies.
+
+
+- [ ] I have created my own Telegram bot for Dymension Testnet: [Dymension Validator Node Telegram Bot](https://t.me/dymensionnodebot)
 
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ahmkah&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
