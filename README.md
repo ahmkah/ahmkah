@@ -1,4 +1,4 @@
-### Hi there 👋
+# 💫 About Me:
 
 - 🔭 I’m currently working on node running and testnets
 - 🌱 I’m currently learning from A to Z with Docker
@@ -12,10 +12,10 @@ Celestia (Mamaki Testnet), Dymension RollApp, Aptos, Sui, Sei, Kujira, Paloma, Q
 ... new ones will be added continuously
 
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=ahmkah&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=ahmkah&show_icons=true&theme=radical)
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmkah&theme=blue-green)](https://github.com/ahmkah/github-readme-stats)
