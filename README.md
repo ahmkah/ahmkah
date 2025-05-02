@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🪿 About Me:
 
 - 🔭 I’m currently working on node running and testnets
 - 🌱 I’m currently learning from A to Z with Docker
